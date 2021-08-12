@@ -1,0 +1,27 @@
+08/12/2021-00:18:55.623153  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33778 -> 175.158.0.135:443
+08/12/2021-00:19:06.117645  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33780 -> 175.158.0.135:443
+08/12/2021-09:00:44.238504  [**] [1:10010:1] facebook.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53950 -> 157.240.215.35:443
+08/12/2021-09:00:44.609824  [**] [1:10010:1] facebook.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53954 -> 157.240.215.35:443
+08/12/2021-09:01:02.945065  [**] [1:10017:1] gitlab.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50322 -> 172.65.251.78:443
+08/12/2021-09:01:04.209096  [**] [1:10017:1] gitlab.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41226 -> 151.101.194.49:443
+08/12/2021-09:01:13.260572  [**] [1:10007:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50802 -> 142.250.204.36:443
+08/12/2021-09:01:15.983375  [**] [1:10007:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54562 -> 142.250.204.34:443
+08/12/2021-09:01:49.904544  [**] [1:10010:1] facebook.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54110 -> 157.240.215.35:443
+08/12/2021-09:02:04.954575  [**] [1:10007:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45854 -> 172.217.161.174:443
+08/12/2021-09:02:04.954575  [**] [1:10020:1] calendar.google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45854 -> 172.217.161.174:443
+08/12/2021-09:02:06.025231  [**] [1:10007:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60456 -> 142.250.199.77:443
+08/12/2021-09:02:08.820491  [**] [1:10007:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36662 -> 172.217.26.142:443
+08/12/2021-09:02:23.799818  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:23.799818  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:24.017657  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40664 -> 175.213.35.39:80
+08/12/2021-09:02:24.017657  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40664 -> 175.213.35.39:80
+08/12/2021-09:02:24.179128  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:24.179128  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:24.700034  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:24.700034  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:25.271755  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:25.271755  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40662 -> 175.213.35.39:80
+08/12/2021-09:02:26.806960  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40666 -> 175.213.35.39:80
+08/12/2021-09:02:26.806960  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40666 -> 175.213.35.39:80
+08/12/2021-09:02:26.811826  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40672 -> 175.213.35.39:80
+08/12/2021-09:02:26.811826  [**] [1:10015:1] gilgil.net access (short) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40672 -> 175.213.35.39:80
